@@ -29,7 +29,6 @@ export default function RootLayout({
           type="image/png"
           sizes="32x32"
           href="favicon-32x32.png"
-          fetchPriority="auto"
         />
       </head>
       <body
